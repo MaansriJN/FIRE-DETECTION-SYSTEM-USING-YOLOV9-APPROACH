@@ -15,3 +15,10 @@ To create a real-time fire detection and alert system using YOLOv9. The system s
 * Location tracking for faster response.
 
 * Easy integration with existing CCTV systems.
+
+##  Tech Stack
+* Python (OpenCV, Flask)
+
+* YOLOv9 (trained on fire dataset)
+
+* Jupyter Notebook or Google Colab (for model testing)
