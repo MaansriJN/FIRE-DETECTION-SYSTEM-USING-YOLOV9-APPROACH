@@ -22,3 +22,10 @@ To create a real-time fire detection and alert system using YOLOv9. The system s
 * YOLOv9 (trained on fire dataset)
 
 * Jupyter Notebook or Google Colab (for model testing)
+
+## System Requirements
+* Python 3.8+
+
+* Compatible webcam or CCTV feed
+
+* Internet access for API integration
